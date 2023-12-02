@@ -31,6 +31,13 @@
 
 Решение:
 
+Результаты запуска серверов представлены на скриншотах ниже:
+
+![Снимок54](https://github.com/Makarov-Denis/Claster_and_Balance/assets/148921246/82a1bb6e-ba27-4752-997d-91ad717a1d5c)
+
+![Снимок55](https://github.com/Makarov-Denis/Claster_and_Balance/assets/148921246/6ef1fc55-7eb2-40aa-9496-05e42fd79462)
+
+
 ![Снимок50](https://github.com/Makarov-Denis/Claster_and_Balance/assets/148921246/2ba8f330-07a0-4604-a860-df2e123862b4)
 
 
