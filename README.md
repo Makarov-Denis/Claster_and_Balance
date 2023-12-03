@@ -33,6 +33,8 @@
 
 Результаты запуска серверов и проверки балансировки представлены на скриншотах ниже:
 
+[Файл HAProxy](https://github.com/Makarov-Denis/Claster_and_Balance/blob/main/haproxy.conf).
+
 ![Снимок54](https://github.com/Makarov-Denis/Claster_and_Balance/assets/148921246/82a1bb6e-ba27-4752-997d-91ad717a1d5c)
 
 ![Снимок55](https://github.com/Makarov-Denis/Claster_and_Balance/assets/148921246/6ef1fc55-7eb2-40aa-9496-05e42fd79462)
